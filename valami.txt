@@ -27,7 +27,7 @@ erzter
 tzerzterztertzertzez
 
 
-
+# - this is from ubuntu console -###
 
 
 
