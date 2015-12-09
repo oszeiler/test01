@@ -29,6 +29,8 @@ tzerzterztertzertzez
 
 # - this is from ubuntu console -###
 
+# - this is from windows - ##
+
 
 
 
